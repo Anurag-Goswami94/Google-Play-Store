@@ -1,0 +1,14 @@
+1>    https://www.kaggle.com/datasets/lava18/google-play-store-apps/data 
+
+Question:-
+
+1>  https://www.kaggle.com/code/thejaskrishna01/google-play-store-apps-case-study
+
+2>  https://www.kaggle.com/code/arunjangir245/google-playstore-apps-rating-prediction    <MUST CHECK BEST>
+
+3>  https://www.kaggle.com/code/fredericqiu/my-mobapp-project-qwasar
+
+4>  https://www.kaggle.com/code/mayanklad/google-play-store-apps-case-study-and-prediction
+
+5>  
+
